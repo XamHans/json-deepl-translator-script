@@ -38,7 +38,7 @@ async function mirrorJsonFileWithTranslation(
 }
 
 (async () => {
-  const fileNames = ["my-workshops"];
+  const fileNames = ["common.json"];
   const targetLangs = ["en"] as string[];
   const fileName = fileNames[0];
   for (const val in targetLangs) {
