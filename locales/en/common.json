@@ -1,0 +1,11 @@
+{
+  "Hello": "Hello",
+  "Error": "Error!",
+  "NotFound": "Page not found!",
+  "BackHome": "Back to home",
+  "AUTH": {
+    "PASSWORD": "Password",
+    "REMEMBER_ME": "Remember me",
+    "LOGIN": "Login"
+  }
+}
